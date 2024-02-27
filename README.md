@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ashleyhumphries
-- 👀 I’m interested in researching the brain
-- 🌱 I’m currently learning how to analyze fMRI data
-- 💞️ I’m looking to collaborate on anything I'm open minded. 
+- 👀 I’m interested in researching the brain and going to grad school.
 - 📫 How to reach me ahumphries2@unl.edu
 
 <!---
