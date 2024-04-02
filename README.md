@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ashleyhumphries
-- 👀 I’m interested in researching the brain and going to grad school.
-- 📫 How to reach me ahumphries2@unl.edu
+- 👋 Hi, I’m Ashley!
+- 👀 I graduated from UT Austin in 2023 and I’m interested in researching the brain.
+- 📫 Reach me at ahumphries2@unl.edu
 
 <!---
 ashleyhumphries/ashleyhumphries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
