@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashley!
-- 👀 I graduated from UT Austin in 2023 and I’m interested in researching the brain.
-- 📫 Reach me at ahumphries2@unl.edu
+- 👀 I am a PhD Graduate Student at UCLA studying how people socially connect.
+- 📫 Reach me at ashleyhumphries@g.ucla.com
 
 <!---
 ashleyhumphries/ashleyhumphries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
